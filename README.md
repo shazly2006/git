@@ -1,18 +1,14 @@
-
-markdown
 <div align="center">
   <h1>
-    <img src="<img width="533" height="800" alt="image" src="https://github.com/user-attachments/assets/b7156628-4462-4a7f-8a96-f818662c1f99" />
-font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+El-Shazly;Data+Engineer+%F0%9F%9A%80;Building+Pipelines+%26+Data+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+El-Shazly;Data+Engineer+%F0%9F%9A%80;Building+Pipelines+%26+Data+Architectures" alt="Typing SVG" />
   </h1>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.postimg.cc/rpM7R4dJ/IMG-2244.jpg" style="border-radius:50%" />
 
 ###
-
 
 Raw Data ──▶ Ingest ──▶ Transform ──▶ Warehouse ──▶ Insights
 
